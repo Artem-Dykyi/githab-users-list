@@ -1,0 +1,1 @@
+{"mappings":"ACAA,QAAQ,GAAG,CAAC","sources":["<anon>","src/index.js"],"sourcesContent":["var $35da740d59af89ba$exports = {};\nconsole.log(\"test\");\n\n\n//# sourceMappingURL=githab-users-list.5ad4e94f.js.map\n","console.log(\"test\")"],"names":["console","log"],"version":3,"file":"githab-users-list.5ad4e94f.js.map"}
